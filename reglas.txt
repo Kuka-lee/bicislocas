@@ -1,0 +1,6 @@
+Validación:
+
+- todos los campos son requeridos
+- nombre y apellido entre 3 y 8 caracteres de largo, y empezar con mayuscula.
+- El password debe tener al menos un numero y una letra, debe ser minimo de largo 6
+- El correo tiene que tener formato de email
